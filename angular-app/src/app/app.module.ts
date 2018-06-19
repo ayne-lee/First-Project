@@ -15,7 +15,6 @@ import { MDBBootstrapModule } from 'angular-bootstrap-md';
     AppRoutingModule,
     MDBBootstrapModule.forRoot()
   ],
-  schemas: [ NO_ERRORS_SCHEMA ],
   providers: [],
   bootstrap: [AppComponent]
 })
